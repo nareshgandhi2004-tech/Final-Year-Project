@@ -1,4 +1,5 @@
-# Smart Coal Mine Worker Safety System - Real-time Monitoring Dashboard
+# Smart Coal Mine Worker Safety System - Real-time Monitoring Dashboard and realtime working prototype
+
 
 A mission-critical React dashboard for monitoring coal mine worker safety using LoRa wireless communication. The system tracks vital signs, environmental conditions, and safety equipment compliance in real-time.
 
